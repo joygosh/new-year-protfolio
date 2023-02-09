@@ -1,0 +1,284 @@
+* {
+    margin: 0;
+}
+
+/* benner style start */
+.benner-title {
+    display: flex;
+    justify-content: right;
+}
+
+.banner-text {
+    padding-top: 190px;
+    padding-right: 200px;
+
+    text-align: right;
+}
+
+header {
+    background-image: url('../img/banner/banner2.png');
+    position: absolute;
+    width: 100%;
+    height: 809px;
+
+    top: 0px;
+}
+
+.banner-text-title {
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 19px;
+    color: #151414;
+    font-family: 'Work Sans';
+
+}
+
+.banner-text-sub-title {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Work Sans';
+    margin-bottom: 19px;
+}
+
+button {
+    background-color: rgb(200, 57, 5);
+    color:
+        #FFFFFF;
+    padding: 18px 28px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Work Sans';
+}
+
+/* benner style end */
+
+
+
+/* section-title start */
+.section-title {
+    margin-top: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section-description {
+
+    font-family: 'Work Sans';
+    font-style: normal;
+
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 20px;
+    color: #1E1E1E;
+}
+
+.section-h1 {
+    font-size: 39px;
+    font-family: 'Work Sans';
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.paragrap-style {
+    line-height: 29px;
+}
+
+.section-img {
+    margin-left: 100px;
+}
+
+.section-text {
+    margin-right: 200px;
+}
+
+/* section-titlt end */
+
+.plans-heading {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 100px;
+    font-family: 'Work Sans';
+    margin-bottom: 50px;
+}
+
+.all-plans {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 120px;
+
+}
+
+
+.plan-1 {
+    margin-left: 30px;
+
+}
+
+.plan-2 {
+    margin-left: 30px;
+}
+
+.plan-3 {
+    margin-right: 30px;
+}
+
+.plan4 {
+    margin-right: 30px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Work Sans';
+    color: #151414;
+
+
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 25;
+    color: #737272;
+    text-align: center;
+    line-height: 29px;
+}
+
+
+
+
+
+
+.footer-title {
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 50px;
+    font-family: 'Work Sans';
+    color: #FFFFFF;
+}
+
+.footer-description {
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Work Sans';
+
+    color: rgb(194, 192, 192);
+}
+
+.footer-adders {
+    margin-bottom: 20px;
+}
+
+.footer-content {
+    margin-top: 70px;
+    padding-bottom: 80px;
+    padding-top: 30px;
+}
+
+.btn {
+    display: block;
+    padding: 15px 30px;
+    border-radius: 7px;
+    border: none;
+    color:
+        #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+.form-title {
+    margin-bottom: 20px;
+    color: #FFFFFF;
+}
+
+.all-footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #151414;
+    margin-top: 90px;
+    color: #FFFFFF;
+}
+
+.form-content {
+    margin-bottom: 90px;
+    right: 90px;
+}
+
+
+
+.fb {
+    padding-right: 7px;
+}
+
+.youtube {
+    padding-left: 5px;
+}
+
+img {
+    margin-top: 8px;
+}
+
+.section-3 {
+    margin-top: 100px;
+    margin-bottom: 130px;
+    margin-left: 300px;
+    background-image: linear-gradient(to bottom, rgba(241, 91, 34, 0), rgba(232, 121, 11, 0.73)),
+        url('../img/watch.png');
+    ;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    margin-left: 158px;
+    margin-right: 283px;
+}
+
+.button {
+    padding: 15px 30px;
+    border-radius: 7px;
+    border: none;
+    background-color: #FFFFFF;
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 19px;
+    margin-bottom: 30px;
+    display: block;
+
+}
+
+.section-3-text {
+    margin-top: 60px;
+    margin-bottom: 70px;
+    font-size: 40px;
+    padding: 30px 80px;
+    padding-top: 70px;
+    color: #FFFFFF;
+
+
+
+}
+
+.web-pic {
+    margin-left: 76px;
+}
+
+.js-pic {
+    margin-left: 60px;
+
+}
+
+.smoke-pic {
+    margin-left: 54px;
+}
+
+.ecom-pic {
+    margin-left: 30px;
+}
